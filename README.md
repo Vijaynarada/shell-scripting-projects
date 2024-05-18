@@ -3,7 +3,7 @@
 You can also watch the entire implementation using the below YouTube video
 
 https://youtu.be/qLZ-s7wvK7w
-
+https://www.youtube.com/watch?v=ZOGeOmla5Sw&t=981s
 **NOTE**: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
 
 AWS S3 Event triggering is a very popular project used by top companies in the Industry.
